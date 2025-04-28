@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Import Demo With Elementor Page Builder were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://joalisonferreira.com.br/Desenvolvimento/security
+Data file = /home/joaliso1/public_html/Desenvolvimento/security/wp-content/uploads/2023/09/demo-content-import-file_2023-09-18__01-10-14.xml
+Widget file = /home/joaliso1/public_html/Desenvolvimento/security/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-18__01-10-14.json
+Customizer file = /home/joaliso1/public_html/Desenvolvimento/security/wp-content/uploads/2023/09/demo-customizer-import-file_2023-09-18__01-10-14.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Posts recentes - RECENT POSTS - Imported
+Categorias - CATEGORIES - Imported
+Texto - No Title - Imported
+Nuvem de tags - TAGS - Imported
+
+Before Footer Sidebar : 
+
+HTML personalizado - No Title - Imported
+
+Footer Widget 1 : 
+
+Texto - No Title - Imported
+
+Footer Widget 2 : 
+
+Menu - No Title - Imported
+
+Footer Widget 3 : 
+
+Texto - No Title - Imported
+
+Footer custom menu : 
+
+Menu - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

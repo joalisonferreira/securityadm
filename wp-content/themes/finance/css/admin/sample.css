@@ -1,0 +1,42 @@
+/* Install Sample Data */
+#sample-data-installer .screenshot {
+    max-width: 350px;
+    max-height: 265px;
+}
+
+#sample-data-installer .screenshot img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#sample-data-installer .screenshot .wrap-install-data {
+    background-color: #23282d;
+    padding: 10px 0;
+    text-align: right;
+}
+
+#sample-data-installer .screenshot .wrap-install-data .theme-name {
+    color: #fff;
+    display: inline-block;
+    float: left;
+    line-height: 28px;
+    margin-left: 15px;
+}
+
+#sample-data-installer .screenshot .wrap-install-data .button-primary {
+    border-radius: 0;
+    background-color: #18ba60;
+    border-color: #18ba60;
+    text-shadow: none;
+    box-shadow: none;
+    margin-right: 15px;
+}
+
+#sample-data-installer .screenshot .wrap-install-data .button-primary:hover {
+    background-color: #0073aa;
+    border-color: #0073aa;
+}
+
+#sample-data-installer {
+    margin-left: 15px;
+}

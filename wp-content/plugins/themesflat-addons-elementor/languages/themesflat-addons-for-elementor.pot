@@ -1,0 +1,429 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Themesflat Addons For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-25 03:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.2"
+
+#: themesflat-addons.php:93
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: themesflat-addons.php:104
+#: themesflat-addons.php:118
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/widget-imagebox.php:1234
+msgid "After"
+msgstr ""
+
+#: widgets/widget-imagebox.php:152 widgets/widget-imagebox.php:933
+#: widgets/widget-posts.php:215
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-imagebox.php:216
+msgid "Background"
+msgstr ""
+
+#: widgets/widget-imagebox.php:370 widgets/widget-imagebox.php:502
+#: widgets/widget-imagebox.php:553 widgets/widget-imagebox.php:640
+#: widgets/widget-imagebox.php:1030
+msgid "Background Color"
+msgstr ""
+
+#: widgets/widget-imagebox.php:514 widgets/widget-imagebox.php:1085
+msgid "Background Color Hover"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1233
+msgid "Before"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1142
+msgid "Bob"
+msgstr ""
+
+#: widgets/widget-imagebox.php:195 widgets/widget-imagebox.php:1043
+#: widgets/widget-imagebox.php:1159
+msgid "Border"
+msgstr ""
+
+#: widgets/widget-imagebox.php:203 widgets/widget-imagebox.php:490
+#: widgets/widget-imagebox.php:1051 widgets/widget-imagebox.php:1167
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/widget-imagebox.php:226 widgets/widget-imagebox.php:482
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/widget-imagebox.php:97 widgets/widget-imagebox.php:925
+msgid "Button"
+msgstr ""
+
+#: widgets/widget-imagebox.php:116
+msgid "Button Text"
+msgstr ""
+
+#: widgets/widget-imagebox.php:160 widgets/widget-imagebox.php:941
+#: widgets/widget-posts.php:223
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-imagebox.php:32
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/widget-imagebox.php:538 widgets/widget-imagebox.php:625
+#: widgets/widget-imagebox.php:724 widgets/widget-imagebox.php:825
+#: widgets/widget-imagebox.php:897 widgets/widget-imagebox.php:1016
+msgid "Color"
+msgstr ""
+
+#: widgets/widget-imagebox.php:837 widgets/widget-imagebox.php:1071
+msgid "Color Hover"
+msgstr ""
+
+#: widgets/widget-imagebox.php:56 widgets/widget-imagebox.php:409
+msgid "Content"
+msgstr ""
+
+#: widgets/widget-imagebox.php:422
+msgid "Content Absolute (Full)"
+msgstr ""
+
+#: widgets/widget-imagebox.php:423
+msgid "Content Absolute (Only Title)"
+msgstr ""
+
+#: widgets/widget-imagebox.php:389 widgets/widget-imagebox.php:421
+#: widgets/widget-imagebox.php:1101
+msgid "Default"
+msgstr ""
+
+#: widgets/widget-imagebox.php:84 widgets/widget-imagebox.php:869
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-imagebox.php:431
+msgid "Effect"
+msgstr ""
+
+#: widgets/widget-imagebox.php:385
+msgid "Effect Overlay"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1097
+msgid "Effect Type"
+msgstr ""
+
+#: themesflat-addons.php:95
+#: themesflat-addons.php:106
+msgid "Elementor"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1102
+msgid "Elementor Button Effect"
+msgstr ""
+
+#: widgets/widget-imagebox.php:390 widgets/widget-imagebox.php:435
+msgid "Fade In"
+msgstr ""
+
+#: widgets/widget-imagebox.php:392 widgets/widget-imagebox.php:437
+msgid "Fade In Down"
+msgstr ""
+
+#: widgets/widget-imagebox.php:393 widgets/widget-imagebox.php:438
+msgid "Fade In Left"
+msgstr ""
+
+#: widgets/widget-imagebox.php:394 widgets/widget-imagebox.php:439
+msgid "Fade In Right"
+msgstr ""
+
+#: widgets/widget-imagebox.php:391 widgets/widget-imagebox.php:436
+msgid "Fade In Up"
+msgstr ""
+
+#: widgets/widget-imagebox.php:77
+msgid "FINANCIAL PROJECTIONS AND ANALYSIS"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1116
+msgid "From Bottom"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1119
+msgid "From Center"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1117
+msgid "From Left"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1118
+msgid "From Right"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1115
+msgid "From Top"
+msgstr ""
+
+#: widgets/widget-imagebox.php:144
+msgid "General"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1135
+msgid "Grow"
+msgstr ""
+
+#: widgets/widget-imagebox.php:793
+msgid "H1"
+msgstr ""
+
+#: widgets/widget-imagebox.php:794
+msgid "H2"
+msgstr ""
+
+#: widgets/widget-imagebox.php:795
+msgid "H3"
+msgstr ""
+
+#: widgets/widget-imagebox.php:796
+msgid "H4"
+msgstr ""
+
+#: widgets/widget-imagebox.php:797
+msgid "H5"
+msgstr ""
+
+#: widgets/widget-imagebox.php:798
+msgid "H6"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1143
+msgid "Hang"
+msgstr ""
+
+#: widgets/widget-imagebox.php:107 widgets/widget-imagebox.php:361
+msgid "Hide"
+msgstr ""
+
+#: widgets/widget-imagebox.php:293 widgets/widget-imagebox.php:1065
+msgid "Hover"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1131
+msgid "Hover Animation"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themesflat-addons.com/"
+msgstr ""
+
+#: widgets/widget-imagebox.php:130
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/widget-imagebox.php:63 widgets/widget-imagebox.php:715
+#: widgets/widget-imagebox.php:1183
+msgid "Icon"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1192
+msgid "Icon Button"
+msgstr ""
+
+#: widgets/widget-imagebox.php:688 widgets/widget-imagebox.php:736
+msgid "Icon Font Size"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1229
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/widget-imagebox.php:655 widgets/widget-imagebox.php:1205
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1242
+msgid "Icon Spacer"
+msgstr ""
+
+#: widgets/widget-imagebox.php:614
+msgid "Icon Title Show"
+msgstr ""
+
+#: widgets/widget-imagebox.php:25 widgets/widget-imagebox.php:186
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-imagebox.php:268 widgets/widget-imagebox.php:299
+msgid "Image Opacity"
+msgstr ""
+
+#: widgets/widget-imagebox.php:322
+msgid "Image Scale"
+msgstr ""
+
+#: widgets/widget-imagebox.php:168 widgets/widget-imagebox.php:949
+#: widgets/widget-posts.php:231
+msgid "Justified"
+msgstr ""
+
+#: widgets/widget-imagebox.php:156 widgets/widget-imagebox.php:937
+#: widgets/widget-posts.php:219
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-imagebox.php:128
+msgid "Link"
+msgstr ""
+
+#: widgets/widget-imagebox.php:246 widgets/widget-imagebox.php:469
+#: widgets/widget-imagebox.php:591 widgets/widget-imagebox.php:760
+#: widgets/widget-imagebox.php:849 widgets/widget-imagebox.php:909
+#: widgets/widget-imagebox.php:988
+msgid "Margin"
+msgstr ""
+
+#: widgets/widget-imagebox.php:262 widgets/widget-imagebox.php:1011
+msgid "Normal"
+msgstr ""
+
+#: widgets/widget-imagebox.php:349
+msgid "Overlay"
+msgstr ""
+
+#: widgets/widget-imagebox.php:234 widgets/widget-imagebox.php:450
+#: widgets/widget-imagebox.php:568 widgets/widget-imagebox.php:969
+msgid "Padding"
+msgstr ""
+
+#: themesflat-addons.php:120
+msgid "PHP"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1141
+msgid "Pop"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1137
+msgid "Pulse"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1138
+msgid "Pulse Grow"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1139
+msgid "Pulse Shrink"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1140
+msgid "Push"
+msgstr ""
+
+#: widgets/widget-imagebox.php:118
+msgid "Read More"
+msgstr ""
+
+#: widgets/widget-imagebox.php:164 widgets/widget-imagebox.php:945
+#: widgets/widget-posts.php:227
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-carousel.php:866
+msgid "Scale"
+msgstr ""
+
+#: widgets/widget-imagebox.php:106 widgets/widget-imagebox.php:360
+msgid "Show"
+msgstr ""
+
+#: widgets/widget-imagebox.php:104
+msgid "Show Button"
+msgstr ""
+
+#: widgets/widget-imagebox.php:358
+msgid "Show Overlay"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1136
+msgid "Shrink"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1120 widgets/widget-imagebox.php:1144
+msgid "Skew"
+msgstr ""
+
+#: widgets/widget-imagebox.php:417 widgets/widget-imagebox.php:1111
+msgid "Style"
+msgstr ""
+
+#: widgets/widget-imagebox.php:817 widgets/widget-imagebox.php:889
+msgid "Text Shadow"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1103
+msgid "TF Effect"
+msgstr ""
+
+#: widgets/widget-imagebox.php:9
+msgid "TF Image Box"
+msgstr ""
+
+#. Description of the plugin
+msgid "The theme's components"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr ""
+
+#. Name of the plugin
+#: themesflat-addons.php:94
+#: themesflat-addons.php:105
+#: themesflat-addons.php:119
+msgid "Themesflat Addons For Elementor"
+msgstr ""
+
+#: widgets/widget-imagebox.php:75 widgets/widget-imagebox.php:780
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-imagebox.php:526
+msgid "Title Show"
+msgstr ""
+
+#: widgets/widget-imagebox.php:807 widgets/widget-imagebox.php:879
+#: widgets/widget-imagebox.php:960
+msgid "Typography"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1146
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: widgets/widget-imagebox.php:1145
+msgid "Wobble Vertical"
+msgstr ""
+
+#: widgets/widget-imagebox.php:789
+msgid "Wrap Heading"
+msgstr ""
